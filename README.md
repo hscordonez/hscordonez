@@ -11,7 +11,14 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 - Gestión de bases de datos
 - Pruebas de software
 - Resolución de problemas
+- Diseñador de software
+- Frameworks y Librerías: [Springboot, Laravel, nestjs, node, angular, django]
 
+## Proyectos Destacados
+
+- [Vinculación con la Sociedad]
+- [Oficos Gad]
+   
 ## Experiencia Laboral
 
 - [Manticore-labs] - [Desarrollador de software] 
