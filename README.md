@@ -14,8 +14,9 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 
 ## Experiencia Laboral
 
-- [Nombre de la empresa] - [Cargo] - [Fecha de inicio] a [Fecha de fin]
-- [Nombre de la empresa] - [Cargo] - [Fecha de inicio] a [Fecha de fin]
+- [Manticore-labs] - [Desarrollador de software] 
+- [Manticore-labs] - [PM]
+- [MAD-JS] - [Desarrollador de software]
 
 ## Educación
 
