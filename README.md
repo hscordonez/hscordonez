@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre  es Steveen Ordoñez
 #### Desarrollador del Software
 
-Soy programador  de Full-Stack de aplicaciones  desarrolladas  en Typescript, Javascript, PHP, Java entre otras asi
+Soy programador  Full-Stack de aplicaciones  desarrolladas  en Typescript, Javascript, PHP, Java entre otras asi como
 conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimiento de aplicaciones web  ,soporte técnico a clientes.
 
 ## Habilidades
