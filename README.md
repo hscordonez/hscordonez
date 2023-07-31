@@ -38,7 +38,7 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 - Email: [zh311505@gmail.com]
 - Teléfono: [0962639779]
 - LinkedIn: [[Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)]
-- GitHub: [[Enlace a tu perfil de GitHub](https://github.com/hscordonez)]
+- GitHub: [[Enlace a tu perfil de GitHub]([https://github.com/hscordonez](https://github.com/hscordonez))]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hscordonez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]([https://www.facebook.com/https://www.facebook.com/profile.php?id=100009444132069](https://www.facebook.com/steveen.vega.9))  
