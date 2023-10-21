@@ -42,6 +42,7 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hscordonez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hscordonez&hide_progress=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hscordonez&show_icons=true&theme=radical)
 
