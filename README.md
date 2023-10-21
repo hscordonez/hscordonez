@@ -40,7 +40,7 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 - LinkedIn: [[Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)]
 - GitHub: [[Enlace a tu perfil de GitHub]([https://github.com/hscordonez](https://github.com/hscordonez))]
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hscordonez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josé-alpala-0280b4182//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hscordonez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hscordonez&show_icons=true&theme=radical)
@@ -49,5 +49,5 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hscordonez)  
 
-![Profile views](https://gpvc.arturio.dev/hscordonez)  
+
 
