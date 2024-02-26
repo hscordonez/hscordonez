@@ -7,7 +7,6 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 ## Habilidades
 
 - Desarrollo de aplicaciones web
-- Desarrollo de aplicaciones móviles
 - Gestión de bases de datos
 - Pruebas de software
 - Resolución de problemas
@@ -24,11 +23,13 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 - [Manticore-labs] - [Desarrollador de software] 
 - [Manticore-labs] - [PM]
 - [MAD-JS] - [Desarrollador de software]
+- [Corporación Jetmind] - [Desarrollador Full Stack]
 
 ## Educación
 
 - [Bachillerato] en [Ciencias] - [Replica "Juan Pío" Montufar] - [2020]
-- [Técnologo] en [Desarrollo de Sofware] - [Instituto superiro Yavirac] - [2023]
+- [Técnologo] en [Desarrollo de Sofware] - [Instituto superiro Yavirac] - [2020-2023]
+- [Ingenieria en Software] - [Iberoamericana] - [2023]
 - [Ingles] - [A2.2] - [Instituto superiro Yavirac] - [2022]
 
 
@@ -39,6 +40,9 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 - Teléfono: [0962639779]
 - LinkedIn: [[Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)]
 - GitHub: [[Enlace a tu perfil de GitHub]([https://github.com/hscordonez](https://github.com/hscordonez))]
+
+##  Portafolio:
+- https://main--steveen-portafolio.netlify.app/system/portafolio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hscordonez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)  
 
