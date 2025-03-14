@@ -1,29 +1,45 @@
 ### Hola 👋, mi nombre  es Steveen Ordoñez
-#### Desarrollador del Software
+#### Soy ingeniero en software
 
-Soy programador Full-Stack de aplicaciones  desarrolladas  en Typescript, Javascript, PHP, Java entre otras asi como
-conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimiento de aplicaciones web  ,soporte técnico a clientes.
+Soy Ingeniero en Software con experiencia en múltiples tecnologías y herramientas. Mi formación profesional me ha permitido desarrollar soluciones eficientes a diversos desafíos en el ámbito del software. Me apasiona la tecnología, las ciencias y, sobre todo, el diseño y desarrollo de arquitecturas de software.
 
-## Habilidades
+# Habilidades
 
-- Desarrollo de aplicaciones web
-- Gestión de bases de datos
-- Pruebas de software
-- Resolución de problemas
-- Diseñador de software
-- Frameworks y Librerías: [Springboot, Laravel, nestjs, node, angular, django]
+- Desarrollo de aplicaciones web y móviles
+- Gestión de bases de datos: PostgreSQL, MySQL, DynamoDB
+- Pruebas de integración y aseguramiento de calidad
+- Gestión de proyectos y liderazgo técnico
+- Diseño y arquitectura de software
+- Frameworks y librerías: Spring Boot, Laravel, NestJS, Node.js, Angular, Django
 
-## Proyectos Destacados
+# Proyectos Destacados
 
-- [Vinculación con la Sociedad]
-- [Oficos Gad]
+## Mundo Venus
+
+### Proyecto Manticore-labs
+
+El proyecto tuvo como enfoque la simplificación de los procesos de administración en la empresa Venus Ecuador. Durante mi tiempo como Desarrollador Full Stack Jr, asumí diversos roles que abarcaron el desarrollo tanto en el frontend como en el backend, además de desempeñar funciones de Project Manager, Quality Assurance y diseñador.
+
+## Onboarding
+
+### Proyecto de Manticore Labs
+
+El proyecto se materializó utilizando lenguajes de programación como JavaScript, HTML, CSS, Bootstrap, y Node.js. La finalidad principal de esta implementación es proporcionar información a los estudiantes, actuando como pasantes, permitiéndoles auto-capacitarse mediante el acceso a datos relevantes de la empresa.
+
+## Vinculación con la Sociedad
+
+### Proyecto de titulación
+
+En el desarrollo del proyecto, se emplearon diversos frameworks, entre ellos Angular, Nest.js, Django, Spring Boot y Laravel. Mi contribución se centró en los roles de desarrollador backend, utilizando Spring Boot y Laravel. El propósito fundamental del proyecto es facilitar a los estudiantes del Instituto Yavirac el proceso de vinculación con la sociedad.
+
    
-## Experiencia Laboral
+# Experiencia Laboral
 
 - [Manticore-labs] - [Desarrollador de software] 
 - [Manticore-labs] - [PM]
 - [MAD-JS] - [Desarrollador de software]
 - [Corporación Jetmind] - [Desarrollador Full Stack]
+- [Corporación Jetmind] - [Desarrollador móvil]
 
 ## Educación
 
@@ -41,11 +57,11 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 - LinkedIn: [[LinkedIn](https://www.linkedin.com/in/hector-ordo%C3%B1ez-244b0a227/)]
 
 
-##  Portafolio:
+#  Portafolio:
+
 - https://main--steveen-portafolio.netlify.app/system/portafolio
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hscordonez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]([https://www.facebook.com/https://www.facebook.com/profile.php?id=100009444132069](https://www.facebook.com/steveen.vega.9))  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hscordonez)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/hscordonez](https://github.com/hscordonez)))
+# Información
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hscordonez&show_icons=true&theme=radical)
 
