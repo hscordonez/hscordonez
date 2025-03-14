@@ -54,7 +54,7 @@ En el desarrollo del proyecto, se emplearon diversos frameworks, entre ellos Ang
 - Nombre: [Hector Steveen Ordoñez]
 - Email: [zh311505@gmail.com]
 - Teléfono: [0962639779]
-- LinkedIn: [[LinkedIn](www.linkedin.com/in/steveen-ordoñez-244b0a227)]
+- LinkedIn: [[LinkedIn]([www.linkedin.com/in/steveen-ordoñez-244b0a227](https://www.linkedin.com/in/steveen-ordo%C3%B1ez-244b0a227/))]
 
 
 #  Portafolio:
