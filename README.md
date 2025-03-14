@@ -11,6 +11,7 @@ Soy Ingeniero en Software con experiencia en múltiples tecnologías y herramien
 - Gestión de proyectos y liderazgo técnico
 - Diseño y arquitectura de software
 - Frameworks y librerías: Spring Boot, Laravel, NestJS, Node.js, Angular, Django
+- Servicios ofrecidos por AWS: S3, EC2, Cognito, DynamoDB, Amplify, Lambda.
 
 # Proyectos Destacados
 
