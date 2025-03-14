@@ -58,7 +58,7 @@ En el desarrollo del proyecto, se emplearon diversos frameworks, entre ellos Ang
 
 #  Portafolio:
 
-- https://main--steveen-portafolio.netlify.app/system/portafolio
+- Portaolio: <a href="https://main--steveen-portafolio.netlify.app/system/portafolio/" target="_blank">Portafolio personal</a>
 
 # Información
 
